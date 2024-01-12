@@ -1,7 +1,7 @@
 #Hybrid recommendation System
---> has movie and music recommendation system
---> uses predefined dataset for both
---> has html frontend for music and streamlit for movie
+--> has movie and music recommendation system\
+--> uses predefined dataset for both\
+--> has html frontend for music and streamlit for movie\\
 
 #how to run-->
 1.first clone the repo
