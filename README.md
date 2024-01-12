@@ -10,4 +10,4 @@
 4.You'll get new files(df.pkl and similarity.pkl for music and movies_list.pkl and similarity.pkl for movies)\
 5.Also import the respective packages or libraries for both movie and music in thier respective directories(like pandas,numpy,sklearn etc..)\
 6.Run servers of both music and movie by opening separate terminals and run app.py directly in music and run the command "streamlit run app.py" for movie\
-7.Open the home.html file in your browser and you have the "Smart Recommendation System"\
+7.Open the home.html file in your browser and you have the "Smart Recommendation System"
